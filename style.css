@@ -158,6 +158,13 @@ body {
   gap: 4px;
 }
 
+.powerup p {
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 0;
+}
+
 kbd {
   background: var(--kbd-bg);
   border: 1px solid var(--kbd-border);
